@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="load">Query Stack Overflow API</string>
+    <string name="api_url">https://api.stackexchange.com/docs/search</string>
+</resources>
